@@ -17,17 +17,20 @@
 ## Tech Stack
 
 1. Backend
- * PHP (Vanilla PHP)
+   * PHP (Vanilla PHP)
+ 
 2. Frontend
- * HTML5
- * CSS3
- * JavaScript
+   * HTML5
+   * CSS3
+   * JavaScript
+ 
 3. Database
- * MySQL
+   * MySQL
+ 
 4. Tools
- * Visual Studio Code
- * MySQL Workbench
- * iPage Web Hosting
+   * Visual Studio Code
+   * MySQL Workbench
+   * iPage Web Hosting
 
 ## Screenshots
 

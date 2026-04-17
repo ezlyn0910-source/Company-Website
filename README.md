@@ -7,15 +7,15 @@ NR Intellitech Company Website is a professional, multi-page corporate platform 
 ## Key Features
 
 1. Multi-page cooperate website 
- * A structured layout featuring a Homepage, Journey page, Services page, News page, and Contact page for organized content delivery. 
+   * A structured layout featuring a Homepage, Journey page, Services page, News page, and Contact page for organized content delivery. 
 2. Journey page
- * A dedicated section to showcase the company's growth, milestones, and corporate evolution.
+   * A dedicated section to showcase the company's growth, milestones, and corporate evolution.
 3. News page
- * An integrated module for sharing company announcements and industry-related news to keep stakeholders informed.
+   * An integrated module for sharing company announcements and industry-related news to keep stakeholders informed.
 4. Contact page
- * A functional contact interface designed to streamline inquiries and business communications.
+   * A functional contact interface designed to streamline inquiries and business communications.
 5. Responsive Design
- * Optimized for a consistent viewing experience across desktops, tablets, and mobile smartphones.
+   * Optimized for a consistent viewing experience across desktops, tablets, and mobile smartphones.
 
 ## Tech Stack
 
@@ -81,9 +81,9 @@ NR Intellitech Company Website is a professional, multi-page corporate platform 
 2. Open project folder on IDE such as VS Code
 3. Open terminal and run following commands
 4. Make sure PHP installed
- * command: php -v
+   * command: php -v
 5. Run build-in PHP server
- * command: php -S localhost:8000
+   * command: php -S localhost:8000
 
 
 **Developed by Ezlyn Azwa**

@@ -121,7 +121,7 @@ body { overflow-x: hidden; }
     margin-top: 0;
     isolation: isolate;
     padding-top: var(--header-height);
-    background: url('/public/images/heromain.png') center center / cover no-repeat;
+    background: url('/public/images/heromain.jpg') center center / cover no-repeat;
     perspective: 1000px;
     transform-style: preserve-3d;
 }

@@ -54,12 +54,23 @@
 3. Service Page
 
   <img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/efda450d-21fe-4144-a473-6995d11f5bcf" />
+  <img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/1aaad6db-717f-49cf-85fc-63a6aeb4ffba" />
   <img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/511be8b8-2c3b-42fa-9813-3974f1eda9f7" />
+  <img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/838e17c5-e7a0-4bea-bd39-b23ce3bd5ce9" />
+  <img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/e12ad9c1-8daf-4741-984b-67ac44f09292" />
+  
 
 4. Insight and News Page
 
+  <img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/cb3ab7a7-b6be-46fd-b356-2ed0401c16b5" />
+  <img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/93937f9e-9b72-429b-9903-146b8f96765c" />
+  <img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/9d6a153d-b882-467f-82bd-13cc645d5ede" />
+
 5. Contact Page
 
+  <img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/ae208542-ac58-40ba-a387-1b65ecc2d6cc" />
+  <img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/d0bf802b-5716-4f08-9021-9da932d7d998" />
+  <img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/eee086cc-8849-4447-9afa-ae8daea72aef" />
 
 ## Setup Instruction
 

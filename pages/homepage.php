@@ -74,7 +74,7 @@ include 'includes/header.php';
                 <div class="card-inner">
                     <div class="card-front">
                         <div class="home-service-icon">
-                            <img src="/public/images/datadestruction.jpg" alt="Data Destruction" class="service-image" loading="lazy">
+                            <img src="/public/images/datadestruction.png" alt="Data Destruction" class="service-image" loading="lazy">
                         </div>
                         <div class="home-service-content">
                             <h3>Secure Data Destruction</h3>
@@ -104,7 +104,7 @@ include 'includes/header.php';
                 <div class="card-inner">
                     <div class="card-front">
                         <div class="home-service-icon">
-                            <img src="/public/images/logistic.jpg" alt="IT Assets Handling & Logistics" class="service-image" loading="lazy">
+                            <img src="/public/images/logistic.png" alt="IT Assets Handling & Logistics" class="service-image" loading="lazy">
                         </div>
                         <div class="home-service-content">
                             <h3>IT Assets Handling & Logistics</h3>
@@ -132,7 +132,7 @@ include 'includes/header.php';
                 <div class="card-inner">
                     <div class="card-front">
                         <div class="home-service-icon">
-                            <img src="/public/images/reporting.jpg" alt="Compliance & Reporting" class="service-image" loading="lazy">
+                            <img src="/public/images/reporting.png" alt="Compliance & Reporting" class="service-image" loading="lazy">
                         </div>
                         <div class="home-service-content">
                             <h3>Compliance & Reporting</h3>
@@ -160,7 +160,7 @@ include 'includes/header.php';
                 <div class="card-inner">
                     <div class="card-front">
                         <div class="home-service-icon">
-                            <img src="/public/images/ecommerce.jpg" alt="E-Commerce" class="service-image" loading="lazy">
+                            <img src="/public/images/ecommerce.png" alt="E-Commerce" class="service-image" loading="lazy">
                         </div>
                         <div class="home-service-content">
                             <h3>E‑Commerce</h3>
@@ -219,7 +219,7 @@ include 'includes/header.php';
                 <div class="card-inner">
                     <div class="card-front">
                         <div class="home-service-icon">
-                            <img src="/public/images/cybersecurity.jpg" alt="Cybersecurity" class="service-image" loading="lazy">
+                            <img src="/public/images/cybersecurity.png" alt="Cybersecurity" class="service-image" loading="lazy">
                         </div>
                         <div class="home-service-content">
                             <h3>Cybersecurity</h3>

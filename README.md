@@ -36,7 +36,7 @@
 
 1. Homepage
 
- <img width="900" height="500" alt="Screenshot 2026-04-17 170047" src="https://github.com/user-attachments/assets/f4a68ea9-c085-4fa8-a205-9a4053f847d6" />
+ <img width="900" height="500" alt="Screenshot 2026-04-17 170047" src="https://github.com/user-attachments/assets/f4a68ea9-c085-4fa8-a205-9a4053f847d6" /><br>
  <img width="900" height="500" alt="Screenshot 2026-04-17 170112" src="https://github.com/user-attachments/assets/56f3713b-ad2f-4ec7-aab8-e26f8e18870f" />
  <img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/bc6da671-e18a-4e47-b8e1-aef28b8b78ac" />
  <img width="900" height="500" alt="Screenshot 2026-04-17 170141" src="https://github.com/user-attachments/assets/6d7124fc-f265-4a82-be10-62bfc8655f95" />

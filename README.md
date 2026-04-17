@@ -2,17 +2,20 @@
 
 ## Project Description
 
-
+NR Intellitech Company Website is a professional, multi-page corporate platform designed to establish a strong digital presence for the organization. The project focuses on delivering a seamless user experience through a responsive layout that effectively communicates the company’s mission, specialized services, and latest industry updates.Built with a focus on performance and reliability, the website serves as a central hub for potential clients and partners to explore the company’s journey and engage with their professional offerings across all device types.
 
 ## Key Features
 
-1. Multi-page cooperate website
-2. Homepage
-3. Journey page
-4. Services page
-5. News page
-6. Contact page
-7. Responsive Design
+1. Multi-page cooperate website 
+ * A structured layout featuring a Homepage, Journey page, Services page, News page, and Contact page for organized content delivery. 
+2. Journey page
+ * A dedicated section to showcase the company's growth, milestones, and corporate evolution.
+3. News page
+ * An integrated module for sharing company announcements and industry-related news to keep stakeholders informed.
+4. Contact page
+ * A functional contact interface designed to streamline inquiries and business communications.
+5. Responsive Design
+ * Optimized for a consistent viewing experience across desktops, tablets, and mobile smartphones.
 
 ## Tech Stack
 
@@ -76,8 +79,11 @@
 
 1. Clone project from repository or download project zip file
 2. Open project folder on IDE such as VS Code
-3. Make sure PHP installed
-4. Run build-in PHP server
+3. Open terminal and run following commands
+4. Make sure PHP installed
+ * command: php -v
+5. Run build-in PHP server
+ * command: php -S localhost:8000
 
 
 **Developed by Ezlyn Azwa**
